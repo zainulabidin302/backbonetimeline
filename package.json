@@ -1,0 +1,28 @@
+{
+  "name": "backbonetimeline",
+  "version": "1.0.0",
+  "description": "backbone timeline for twitter ",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zainulabidin302/backbonetimeline.git"
+  },
+  "keywords": [
+    "backbone",
+    "timeline",
+    "app"
+  ],
+  "author": "Zain Ulabidin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zainulabidin302/backbonetimeline/issues"
+  },
+  "homepage": "https://github.com/zainulabidin302/backbonetimeline#readme",
+  "dependencies": {
+    "express": "^4.13.3",
+    "twit": "^2.1.0"
+  }
+}
